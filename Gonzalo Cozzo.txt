@@ -1,3 +1,2 @@
 Gonza c.
-no se tu pero yo
-me niego a escapar
+Primer trabajo con Git-GitHub
